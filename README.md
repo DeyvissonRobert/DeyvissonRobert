@@ -1,3 +1,5 @@
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.postimg.cc/9fgSn8Ys/octocat-1701030514995.png">
+
 ### Hi there 👋
 <br> <br>
 Eu sou Deyvisson Robert, sou programador Front-end, atualmente estou aprendendo acriar projetos com:
