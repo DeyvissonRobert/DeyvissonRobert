@@ -10,6 +10,11 @@ Eu sou Deyvisson Robert, sou programador Front-end, atualmente estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+
+
 ## Contatos:
 
 <div>
@@ -22,7 +27,7 @@ Eu sou Deyvisson Robert, sou programador Front-end, atualmente estou aprendendo 
 
 <br>
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/DeyvissonRobert">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvissonRobert&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DeyvissonRobert&show_icons=true&theme=radical"/>
 </div>
