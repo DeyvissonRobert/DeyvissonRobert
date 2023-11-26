@@ -1,9 +1,10 @@
 <img align="right" width="350px" style="margin-top:-20px" src="https://i.postimg.cc/9fgSn8Ys/octocat-1701030514995.png">
 
-### Hi there :sunglasses:
-
-Eu sou Deyvisson Robert, sou programador Front-end e socio DEVCLUB :rocket:
-Estou atualmente estudando novas linguagens de programação e aprendendo a criar projetos com essas tecnologias :computer:
+### :yum: HI THERE :sunglasses:
+<br> <br>
+<p align="left"> :sparkles: Eu sou Deyvisson Robert, sou programador Front End e sócio DEVCLUB. :rocket: </p>
+<p align="left"> :computer: Estou atualmente estudando novas linguagens de programação e aprendendo a criar projetos com essas tecnologias. :ok_hand:  </p>
+<p align="left"> 🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rapido)...🤫</p>
 <br> 
 
 ## Ferramentas e Tecnologias
