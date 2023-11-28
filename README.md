@@ -1,8 +1,8 @@
-<img align="right" width="340px" style="margin-top:-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
+<img align="right" width="330px" style="margin-top:-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
 
 ### :yum: HI THERE :sunglasses:
 <br> <br>
-<p align="left">:sparkles: Eu sou Deyvisson Robert, sou programador Front End e sócio DEVCLUB:rocket: </p>
+<p align="left">:sparkles: Eu sou Deyvisson Robert, sou programador Front End e sócio DEVCLUB. :rocket: </p>
 <p align="left"> :computer: Estou atualmente estudando novas linguagens de programação e aprendendo a criar projetos com essas tecnologias. :ok_hand:  </p>
 <p align="left"> 🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rapido)...🤫</p>
 <br> 
