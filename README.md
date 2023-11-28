@@ -1,4 +1,4 @@
-<img align="right" width="350px" style="margin-top:-20px" src="https://i.postimg.cc/9fgSn8Ys/octocat-1701030514995.png">
+<img align="right" width="350px" style="margin-top:-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
 
 ### :yum: HI THERE :sunglasses:
 <br> <br>
