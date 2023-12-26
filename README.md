@@ -4,7 +4,7 @@
 <br> <br>
 <p align="left">✨ Eu sou Deyvisson Robert, sou programador Front End e sócio DEVCLUB. 🚀 </p>
 <p align="left"> 💻 Estou atualmente estudando novas linguagens de programação e aprendendo a criar projetos com essas tecnologias. 👌  </p>
-<p align="left"> 🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rapido)...🤫</p>
+<p align="left"> 🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rápido)...🤫</p>
 <br> 
 
 ## Ferramentas e Tecnologias
