@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Opaa+Me+Chamo+Deyvisson+Robert;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Opaa!+Me+Chamo+Deyvisson+Robert;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
 <img align="right" width="330px" style="margin-top:-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
 
 ### 😋 HI THERE 😎
