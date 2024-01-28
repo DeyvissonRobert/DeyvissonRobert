@@ -3,13 +3,15 @@
 
 ### 😋 HI THERE 😎
 <br> <br>
+<div>
 <p align="left">✨ Eu sou Deyvisson Robert, sou programador Front End e sócio DEVCLUB. 🚀 </p>
 <p align="left"> 💻 Estou atualmente estudando novas linguagens de programação e aprendendo a criar projetos com essas tecnologias. 👌  </p>
 <p align="left"> 🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rápido)...🤫</p>
-<br> 
-
+</div>
+  <br>
+  
 ## Ferramentas e Tecnologias
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
@@ -18,11 +20,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<br>
-## Estou aprendendo
+</div>
 
+## Estou aprendendo
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</div>
 <br>
+
 ## Contatos:
 
 <div>
@@ -34,7 +39,7 @@
 </div>
 <br>
 
-
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeyvissonRobert&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeyvissonRobert&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DeyvissonRobert&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvissonRobert&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div
