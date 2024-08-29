@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Opaa!+Me+Chamo+Deyvisson+Robert;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
-<img align="right" width="330px" style="margin-top:-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
+<img align="right" width="330px" style="margin-top-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
 
 ### 😋 HI THERE 😎
 <br> <br>
@@ -31,8 +31,3 @@
 
 | <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeyvissonRobert&show_icons=true&title_color=ff758f&icon_color=ff758f&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&hide_border=true&count_private=true" alt=" Deyvisson Robert github stats" /> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvissonRobert&layout=compact&hide_border=true&title_color=ff758f&text_color=ff758f&bg_color=0d1117" />
 |----|----|
-
-<div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeyvissonRobert&show_icons=true&title_color=ff758f&icon_color=ff758f&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&hide_border=true&count_private=true" alt=" Deyvisson Robert github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvissonRobert&layout=compact&hide_border=true&title_color=ff758f&text_color=ff758f&bg_color=0d1117" />
-</div
