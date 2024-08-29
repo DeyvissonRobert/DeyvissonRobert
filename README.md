@@ -24,12 +24,13 @@
 
 ## 📫 Contact
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvisson-robert-santos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robert.devx/)
-[![Gmail](https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=red)](mailto:robert.designerx@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeyvissonRobert)
+| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvisson-robert-santos/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robert.devx/) | [![Gmail](https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=red)](mailto:robert.designerx@gmail.com) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeyvissonRobert)
+|----|----|----|----|
 
 ---
+
+| <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeyvissonRobert&show_icons=true&title_color=ff758f&icon_color=ff758f&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&hide_border=true&count_private=true" alt=" Deyvisson Robert github stats" /> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvissonRobert&layout=compact&hide_border=true&title_color=ff758f&text_color=ff758f&bg_color=0d1117" />
+|----|----|
 
 <div align="center">  
 <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeyvissonRobert&show_icons=true&title_color=ff758f&icon_color=ff758f&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&hide_border=true&count_private=true" alt=" Deyvisson Robert github stats" /> 
