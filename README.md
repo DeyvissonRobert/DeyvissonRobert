@@ -1,14 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Opaa!+Me+Chamo+Deyvisson+Robert;Sejam+Bem-Vindos+ao+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff758f&size=20&center=true&vCenter=true&width=1000&lines=Opaa!+Me+chamo+Deyvisson+Robert;Sejam+Bem-Vindos+ao+meu+Github!;Oops!+My+name+is+Deyvisson+Robert;Welcome+to+my+Github!)](https://git.io/typing-svg)
 <img align="right" width="330px" style="margin-top-20px" src="https://i.postimg.cc/TY3DDMLW/octocat-Pro-github.png">
 
-### 😋 HI THERE 😎
+# 😋 HI! I'm Deyvisson Robert 😎
+  **Full Stack Developer | Front-End & Back-End | Web Developer**
 <br> <br>
-<div>
-<p align="left">✨ Eu sou Deyvisson Robert, sou programador Front End e sócio DEVCLUB. 🚀 </p>
-<p align="left"> 💻 Estou atualmente estudando novas linguagens de programação e aprendendo a criar projetos com essas tecnologias. 👌  </p>
-<p align="left"> 🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rápido)...🤫</p>
-</div>
-  <br>
+
+✨ I am a Computer Science student with a passion for developing robust, scalable and responsive web applications.
+ 
+💻 I am currently studying new programming languages and learning how to create projects with these technologies. 👌
+
+🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rápido)...🤫
 
 ---
   
@@ -17,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,vue,vite,nodejs,react,vercel,yarn,npm,git,github,figma,vscode)](https://skillicons.dev)
 
 ### Study
-[![My Skills](https://skillicons.dev/icons?i=tailwind,typescript,vue,vite,nodejs,react,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript)](https://skillicons.dev)
 <br>
 
 ---
