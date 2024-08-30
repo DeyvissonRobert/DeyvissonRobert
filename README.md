@@ -7,9 +7,9 @@
 
 ✨ I'm a Computer Science student with a passion for developing robust, scalable and responsive web applications.
  
-💻 I'm currently studying new programming languages and learning how to create projects with these technologies. 👌
+💻 I'm currently studying new programming languages and learning how to create projects with these technologies. 
 
-🎮 I love games, have a great sense of humor, and am resilient and adaptable. Not to mention that I learn quickly (I pick things up fast)... 🤫
+🎮 I love games, have a great sense of humor, and am resilient and adaptable. Not to mention that I learn quickly (I pick things up fast)... 
 
 ---
   
