@@ -5,21 +5,19 @@
   **Full Stack Developer | Front-End & Back-End | Web Developer**
 <br> <br>
 
-✨ I am a Computer Science student with a passion for developing robust, scalable and responsive web applications.
+✨ I'm a Computer Science student with a passion for developing robust, scalable and responsive web applications.
  
-💻 I am currently studying new programming languages and learning how to create projects with these technologies. 👌
+💻 I'm currently studying new programming languages and learning how to create projects with these technologies. 👌
 
-🎮 Amo games, sou bem humorado, resiliente e adaptativo. Sem contar que tenho facilidade em aprender (aprendo rápido)...🤫
+🎮 I love games, have a great sense of humor, and am resilient and adaptable. Not to mention that I learn quickly (I pick things up fast)... 🤫
 
 ---
   
 ## 💻 Technologies & Tools:
 ### Main
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,vue,vite,nodejs,react,vercel,yarn,npm,git,github,figma,vscode)](https://skillicons.dev)
-
 ### Study
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript)](https://skillicons.dev)
-<br>
 
 ---
 
