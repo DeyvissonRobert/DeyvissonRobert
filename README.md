@@ -15,9 +15,9 @@
   
 ## 💻 Technologies & Tools:
 ### Main
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,vite,nodejs,react,vercel,netlify,npm,yarn,express,mysql,git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,java,javascript,typescript,vite,nodejs,react,vercel,netlify,npm,yarn,express,mysql,git,github,figma,vscode)](https://skillicons.dev)
 ### Study
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs,react,typescript)](https://skillicons.dev)
 
 ---
 
